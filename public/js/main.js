@@ -1,1 +1,1 @@
-angular.module('decapp', []);
+angular.module('decapp', ['minhasDiretivas']);

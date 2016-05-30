@@ -1,1 +1,1 @@
-angular.module('decapp', ['minhasDiretivas']);
+angular.module('decapp', ['minhasDiretivas', 'ngAnimate']);

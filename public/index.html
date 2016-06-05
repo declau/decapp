@@ -2,6 +2,7 @@
 <html lang="pt-br" ng-app="decapp">
     <head>
         <meta charset="UTF-8">
+        <base href="/">
         <meta name="viewport" content="width=device-width">
         <title>Decapp</title>
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -17,7 +18,7 @@
           <script src="js/controllers/fotos-controller.js"></script>
           <script src="js/directives/minhas-diretivas.js"></script>
     </head>
-    <body ng-controller="FotosController">
+    <body>
         <div class="container">
           <ng-view></ng-view>
         </div><!-- fim container -->

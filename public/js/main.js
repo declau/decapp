@@ -1,1 +1,1 @@
-angular.module('decapp', ['minhasDiretivas', 'ngAnimate']);
+angular.module('decapp', ['minhasDiretivas', 'ngAnimate', 'ngRoute']);
